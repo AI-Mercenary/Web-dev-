@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full viewport height */
+    background-color: #001F3F; /* Dark tech blue */
+    color: white; /* Text color */
+    text-align: center;
+    font-family: 'Techno', sans-serif; /* Replace with your tech-savvy font */
+}
+
+.title {
+    font-size: 48px; /* Adjust font size as needed */
+    margin: 20px 0; /* Spacing above and below */
+}
+
+.subtitle {
+    font-size: 24px; /* Adjust font size as needed */
+    margin-bottom: 40px; /* Space before button */
+}
+
+.joinButton {
+    padding: 15px 30px; /* Adjust padding for size */
+    font-size: 18px; /* Adjust font size */
+    background-color: #0070f3; /* Change to your preferred color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.joinButton:hover {
+    background-color: #005bb5; /* Darker shade on hover */
+}
