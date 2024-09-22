@@ -1,2 +1,2 @@
 # Web-dev-
-A personal repository to explore and enhance web development skills. It includes various projects showcasing front-end and back-end technologies, with a focus on responsive design, user experience, and best coding practices.
+I am Sampath Varma Datla, a Bachelor of Technology student specializing in Computer Science Engineering at GITAM, Visakhapatnam. My journey in tech began with a keen interest in artificial intelligence and machine learning, which drives my curiosity and projects. While I enjoy exploring AI/ML concepts, I also engage in web development to broaden my skill set and apply my knowledge practically. I'm committed to continuous learning and innovation in the tech field.
